@@ -1,4 +1,4 @@
-// Cüneyd BÖLÜKOĞLU 
+// Hamza ATILGAN
 // Front-End Developer
 
 $(document).ready(function () {
